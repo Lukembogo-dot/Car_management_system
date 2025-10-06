@@ -27,7 +27,6 @@ The system includes the following key entities:
 Below is the **Entity Relationship Diagram (ERD)** showing how the entities connect:
 
 ![ER Diagram](https://github.com/Lukembogo-dot/Car_management_system/blob/main/SQL%20Import%20(sql_server).png)
-> 📸 *Replace this image path with the actual name of your ERD screenshot (e.g., `ERD_CarRental.png`)*
 
 ---
 ## 🧑‍💻 Author
