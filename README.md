@@ -32,7 +32,7 @@ Below is the **Entity Relationship Diagram (ERD)** showing how the entities conn
 ## 🧑‍💻 Author
 
 **Luke Mbogo**  
-📍 *Nairobi, Kenya*  
+📍 *Nyeri, Kenya*  
 💼 *Teach2Give — Week 3 SQL Assignment*  
 📧 [luke.mbogo@email.com](mailto:luke.mbogo@email.com)
 
