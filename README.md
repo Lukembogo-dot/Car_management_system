@@ -30,3 +30,17 @@ Below is the **Entity Relationship Diagram (ERD)** showing how the entities conn
 > 📸 *Replace this image path with the actual name of your ERD screenshot (e.g., `ERD_CarRental.png`)*
 
 ---
+## 🧑‍💻 Author
+
+**Luke Mbogo**  
+📍 *Nairobi, Kenya*  
+💼 *Teach2Give — Week 3 SQL Assignment*  
+📧 [luke.mbogo@email.com](mailto:luke.mbogo@email.com)
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates a solid understanding of **SQL database design** and **real-world data modeling**.  
+The **Car Rental Management System** efficiently manages the entire rental process — from car listing to payment tracking and maintenance.
+
